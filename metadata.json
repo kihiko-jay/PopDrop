@@ -1,0 +1,11 @@
+{
+  "name": "PopDrop",
+  "description": "Proximity-based gamified loot map for discovering physical drops, claiming local rewards, and driving real-world foot traffic.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
